@@ -1,0 +1,23 @@
+{
+  "name": "vue-list-scroll",
+  "version": "1.0.0",
+  "description": "A component for list scroll",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dyh1995/vue-list-scroll.git"
+  },
+  "keywords": [
+    "vue",
+    "scroll"
+  ],
+  "author": "dyh1995",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dyh1995/vue-list-scroll/issues"
+  },
+  "homepage": "https://github.com/dyh1995/vue-list-scroll#readme"
+}
